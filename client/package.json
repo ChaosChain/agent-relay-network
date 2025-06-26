@@ -1,0 +1,19 @@
+{
+  "name": "agent-r",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.0.4",
+    "@types/ws": "^8.18.1",
+    "node-fetch": "^2.7.0",
+    "nostr-tools": "^2.15.0",
+    "ws": "^8.18.2"
+  },
+  "type": "module"
+}
